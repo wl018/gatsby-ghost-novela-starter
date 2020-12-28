@@ -1,9 +1,9 @@
 module.exports = {
-  siteUrl: "https://ghost-novela-preview.draftbox.co",
+  siteUrl: "https://passionever.herokuapp.com",
   postsPerPage: 12,
-  siteTitleMeta: "Built with Draftbox",
+  siteTitleMeta: "受苦与激情",
   siteDescriptionMeta:
-    "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
+    "在我们的时代传扬祂，见证祂。",
   shareImageWidth: 1000,
   shareImageHeight: 523,
   shortTitle: "Built with Draftbox",
