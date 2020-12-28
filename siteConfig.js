@@ -42,10 +42,7 @@ module.exports = {
         label: "Contact",
         url: "https://ghost-novela-preview.draftbox.co/contact",
       },
-      {
-        label: "External Link",
-        url: "https://spectrum.chat/gatsby-js/themes?tab=posts",
-      },
+      
     ],
   },
   subscribeWidget: {
