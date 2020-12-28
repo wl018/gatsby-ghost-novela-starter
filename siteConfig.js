@@ -92,9 +92,9 @@ module.exports = {
     width: 1000,
     height: 523,
   },
-  siteTitle: "Built with Draftbox",
+  siteTitle: "受苦与激情",
   siteDescription:
-    "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
+    "在我们的时代传扬祂，见证祂。",
   language: "en",
   logoUrl: "logo.svg",
   iconUrl:
