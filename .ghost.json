@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://seekgod.herokuapp.com",
-    "contentApiKey": "2fd002cce28ac4a3333d65543d"
+    "apiUrl": "https://passionever.herokuapp.com",
+    "contentApiKey": "a504e043a8a563be64b59af51e"
   },
   "production": {
-    "apiUrl": "https://seekgod.herokuapp.com",
-    "contentApiKey": "2fd002cce28ac4a3333d65543d"
+    "apiUrl": "https://passionever.herokuapp.com",
+    "contentApiKey": "a504e043a8a563be64b59af51e"
   }
 }
