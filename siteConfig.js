@@ -6,7 +6,7 @@ module.exports = {
     "在我们的时代传扬祂，见证祂。",
   shareImageWidth: 1000,
   shareImageHeight: 523,
-  shortTitle: "Built with Draftbox",
+  shortTitle: "受苦与激情",
   siteIcon: "favicon.png",
   backgroundColor: "#e9e9e9",
   themeColor: "#15171A",
@@ -15,7 +15,7 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://ghost-novela-preview.draftbox.co/",
+        url: "https://passionever.herokuapp.com",
       },
       {
         label: "Contact",
@@ -24,7 +24,7 @@ module.exports = {
     ],
   },
   footer: {
-    copyright: "Built with Draftbox",
+    copyright: "Built with Gatsby & Ghost",
     navigation: [
       {
         label: "Home",
@@ -49,7 +49,7 @@ module.exports = {
     ],
   },
   subscribeWidget: {
-    visible: true,
+    visible: false,
     title: "Subscribe to Built with Draftbox",
     helpText: "Get the latest posts delivered right to your inbox.",
     successMessage: "Thanks for subscribing to Built with Draftbox.",
