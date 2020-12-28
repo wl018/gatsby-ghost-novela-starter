@@ -15,10 +15,10 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://passionever.herokuapp.com",
+        url: "https://passionever.cn",
       },
       {
-        label: "Contact",
+        label: "tag",
         url: "https://ghost-novela-preview.draftbox.co/contact",
       },
     ],
@@ -30,18 +30,12 @@ module.exports = {
         label: "Home",
         url: "https://ghost-novela-preview.draftbox.co/",
       },
-      {
-        label: "Sitemap",
-        url: "https://ghost-novela-preview.draftbox.co/sitemap.xml",
-      },
+
       {
         label: "RSS",
         url: "https://ghost-novela-preview.draftbox.co/rss.xml",
       },
-      {
-        label: "Contact",
-        url: "https://ghost-novela-preview.draftbox.co/contact",
-      },
+  
       
     ],
   },
