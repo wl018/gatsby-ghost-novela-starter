@@ -87,11 +87,6 @@ module.exports = {
   siteDescription:
     "在我们的时代传扬祂，见证祂。",
   language: "en",
-  //logoUrl: "logo.svg",
-  //iconUrl:
-    //"https://ghost.theasdfghjkl.com/content/images/2020/05/draftbox-colored-icon.png",
-  //coverUrl: "cover.jpg",
-  //alternateLogoUrl: "alternateLogo.svg",
   themeConfig: {
     variables: [
       { varName: "--accent-color", value: "#6166DC" },
