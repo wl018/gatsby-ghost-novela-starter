@@ -69,9 +69,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "Built with Draftbox",
+    title: "受苦与激情",
     description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+      "在我们的时代传扬祂，见证祂。",
   },
   twitterCard: {
     title: "Built with Draftbox",
